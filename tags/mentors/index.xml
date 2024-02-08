@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mentors on Study In Taiwan</title>
+    <link>https://studyintaiwan.github.io/tags/mentors/</link>
+    <description>Recent content in Mentors on Study In Taiwan</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://studyintaiwan.github.io/tags/mentors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>List of Available Mentors to Guide You</title>
+      <link>https://studyintaiwan.github.io/mentors/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://studyintaiwan.github.io/mentors/</guid>
+      <description>List of Available Mentors Here is a list of mentors currently available to guide you through your journey of studying in Taiwan:&#xA;Note: With whom you talk, the money will be credited to them.&#xA;Mentor Name University Department Contact Pavan Kumar MP NSYSU, Kaohsiung Taiwan Department CSE LinkedIn [Mentor 2 Name] [University Name] [Department Name] [Contact Information] [Mentor 3 Name] [University Name] [Department Name] [Contact Information] [Mentor 4 Name] [University Name] [Department Name] [Contact Information] [Mentor 5 Name] [University Name] [Department Name] [Contact Information] </description>
+    </item>
+  </channel>
+</rss>
